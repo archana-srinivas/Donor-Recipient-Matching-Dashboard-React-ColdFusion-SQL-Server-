@@ -1,0 +1,5 @@
+node_modules/
+jre/
+box.exe
+server.json
+.DS_Store
